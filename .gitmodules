@@ -1,0 +1,6 @@
+[submodule "stuff-api"]
+	path = stuff-api
+	url = git@github.com:aml7733/stuff-api.git
+[submodule "stuff-web"]
+	path = stuff-web
+	url = git@github.com:aml7733/stuff-web.git
